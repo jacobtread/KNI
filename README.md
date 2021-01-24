@@ -15,7 +15,7 @@ Checked languages have a KNI library unchecked languages are expected to have a 
 - [x] JavaScript (Node) [GitHub](https://github.com/jacobtread/KNI-JS), [npm](https://www.npmjs.com/package/kni-js)
 - [ ] Kotlin
 - [ ] TypeScript
-- [x] Rust [GitHub](https://github.com/laspruca/kni-rs) [Crates](https://crates.io/crates/kni-rs)
+- [x] Rust [GitHub](https://github.com/laspruca/kni-rs), [Crates](https://crates.io/crates/kni-rs)
 - [ ] Go
 - [ ] Swift (Hmmm.. IDK about this one)
 - [ ] Scala
