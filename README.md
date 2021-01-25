@@ -13,7 +13,7 @@ Checked languages have a KNI library unchecked languages are expected to have a 
 - [x] Python [GitHub](https://github.com/jacobtread/KNI-Py), [PyPI](https://pypi.org/project/knij/)
 - [x] PHP [GitHub](https://github.com/jacobtread/KNI-PHP),  [Composer](https://packagist.org/packages/jacobtread/kni)
 - [x] JavaScript (Node) [GitHub](https://github.com/jacobtread/KNI-JS), [npm](https://www.npmjs.com/package/kni-js)
-- [ ] Kotlin
+- [x] Kotlin [Github](https://github.com/jacobtread/KNI-Kt)
 - [ ] TypeScript
 - [x] Rust [GitHub](https://github.com/laspruca/kni-rs), [Crates](https://crates.io/crates/kni-rs)
 - [ ] Go
