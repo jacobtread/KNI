@@ -21,7 +21,6 @@ Checked languages have a KNI library unchecked languages are expected to have a 
 - [ ] Swift (Hmmm.. IDK about this one)
 - [ ] Scala
 - [ ] Ruby
-- [ ] C#
 
 ## 🕵️‍♂️ Contributors
 The special people making all the magic happen 😎
