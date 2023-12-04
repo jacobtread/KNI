@@ -25,4 +25,4 @@ Checked languages have a KNI library unchecked languages are expected to have a 
 ## 🕵️‍♂️ Contributors
 The special people making all the magic happen 😎
 - Jacob  [GitHub](https://github.com/jacobtread)
-- Nathan [GitHub](https://github.com/laspruca)
+- Connor [GitHub](https://github.com/laspruca)
